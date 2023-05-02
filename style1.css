@@ -1,0 +1,22 @@
+.container{
+    
+background-color: aqua;
+width: 400px;
+height: 165px;
+border-radius: 20px;
+margin-left: 450px;
+}
+h2{
+    margin-top: 40px;
+}
+
+form{
+    margin-left: 50px;
+}
+#D.O.B{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#socialMedia{
+    margin-left: 180px;
+}
